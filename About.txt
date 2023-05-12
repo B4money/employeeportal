@@ -1,0 +1,26 @@
+Week 4 – Assignment Code
+Ben Merritt
+The University of Arizona Global Campus
+CST 310: Software Development
+Instructor: Joseph Rangitsch
+May 15, 2023
+
+Instructions:
+Import employportal.sql in phpMyAdmin to create database.
+Modify config.php with server login information.
+Place "CST_310_Week_4_Bmerritt_Assignement_Employee_Portal_Website" in htdocs.
+execute localhost/CST_310_Week_4_Bmerritt_Assignement_Employee_Portal_Website/
+Login wont login because no data in database
+Click register to add following information:
+jane@example.com
+123456
+Jane
+Smith
+123456 river rd
+3450980987
+5000
+567345678
+Then Login with the above email and password.
+click profile.
+click Home.
+Click Logout.
